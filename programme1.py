@@ -1,3 +1,5 @@
-print ('Hi There!')
+value=10
+print('Hi There!')
+print(value)
 
 
